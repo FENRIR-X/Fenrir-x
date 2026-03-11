@@ -1,0 +1,17 @@
+{
+  "120363424460783592@g.us": {
+    "antilink": false,
+    "antitag": false,
+    "antilinkick": false,
+    "antibadword": false,
+    "antimedia": false,
+    "antibug": false,
+    "anticall": false,
+    "antidelete": false,
+    "autoreact": false,
+    "autostatus": false,
+    "autotyping": false,
+    "autorecording": false,
+    "autoread": false
+  }
+}
