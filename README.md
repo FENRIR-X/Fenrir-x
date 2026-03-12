@@ -22,43 +22,44 @@ Follow these commands step by step to run the bot.
 ---
 
 📦 1. Install Packages
-
+```
 pkg update && pkg upgrade
-
+pkg install git -y
+pkg install ffmpeg -y
+pkg install imagemagick -y
+```
 ---
 
 🟢 2. Install NodeJS
-
+```
 pkg install nodejs
-
+```
 ---
 
 📂 3. Clone Repository
-
-pkg install git
-
-git clone https://github.com/yourusername/fenrir-x-bot
-
+```
+git clone https://github.com/FENRIR-X/Fenrir-x
+```
 ---
 
 📁 4. Open Bot Folder
-
+```
 cd fenrir-x-bot
-
+```
 ---
 
 📥 5. Install Dependencies
-
+```
 npm install
-
+```
 ---
 
 ▶️ 6. Start The Bot
-
+```
 npm start
-
-After running the bot a QR code will appear.
-Scan it with WhatsApp Linked Devices.
+```
+After running the bot ask you for your number.
+After it's give's you a otp go on WhatsApp Linked Devices.
 
 ---
 
@@ -71,6 +72,10 @@ Scan it with WhatsApp Linked Devices.
 ✔ YouTube Video Download
 ✔ Logo Maker Commands
 ✔ Fast & Stable System
+✔ Bug commands
+✔ Anti-Bug
+✔ Make your Whatsapp fully automatic 
+✔ Easy to deploy
 
 ---
 
